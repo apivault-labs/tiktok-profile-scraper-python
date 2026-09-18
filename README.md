@@ -82,7 +82,7 @@ Requires Python 3.9+ and the [`requests`](https://pypi.org/project/requests/) li
 3. Copy your Personal API token
 
 ```bash
-export APIFY_API_TOKEN=apify_api_xxxxxxxxxxxxxxxxxxxxxxxx
+export APIFY_API_TOKEN=YOUR_APIFY_TOKEN
 ```
 
 Or pass it explicitly:
